@@ -18,8 +18,8 @@ A simple TypeScript bot that simulates movement based on input commands like `R`
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/maqebot.git
-   cd maqebot
+   git clone https://github.com/PinpongM/maqe_challenge.git
+   cd maqe_challenge
    ```
 
 - Install dependencies:
